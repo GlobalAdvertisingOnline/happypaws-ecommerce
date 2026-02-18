@@ -1,0 +1,41 @@
+"use client";
+
+import { ProductCategory } from "@/lib/types/product";
+
+interface CategoryFilterProps {
+  categories: ProductCategory[];
+  selected: ProductCategory | "All";
+  onSelect: (category: ProductCategory | "All") => void;
+}
+
+export function CategoryFilter({ categories, selected, onSelect }: CategoryFilterProps) {
+  return (
+    <div className="flex flex-wrap gap-2" role="group" aria-label="Filter by category">
+      <button
+        onClick={() => onSelect("All")}
+        aria-pressed={selected === "All"}
+        className={`rounded-full px-4 py-2 text-sm font-medium transition-all ${
+          selected === "All"
+            ? "bg-brand-teal text-white shadow-sm"
+            : "bg-slate-100 text-slate-600 hover:bg-slate-200"
+        }`}
+      >
+        All Products
+      </button>
+      {categories.map((cat) => (
+        <button
+          key={cat}
+          onClick={() => onSelect(cat)}
+          aria-pressed={selected === cat}
+          className={`rounded-full px-4 py-2 text-sm font-medium transition-all ${
+            selected === cat
+              ? "bg-brand-teal text-white shadow-sm"
+              : "bg-slate-100 text-slate-600 hover:bg-slate-200"
+          }`}
+        >
+          {cat}
+        </button>
+      ))}
+    </div>
+  );
+}
