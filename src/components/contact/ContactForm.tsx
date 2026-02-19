@@ -14,13 +14,12 @@ export function ContactForm() {
     const data = new FormData(form);
 
     try {
-      const res = await fetch("https://formsubmit.co/ajax/support@happypaws.shop", {
+      const res = await fetch("/api/contact", {
         method: "POST",
-        headers: { Accept: "application/json" },
         body: data,
       });
       const json = await res.json();
-      if (json.success === "true" || json.success === true || res.ok) {
+      if (json.success === true || json.success === "true") {
         setStatus("success");
         form.reset();
       } else {
