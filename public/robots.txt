@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://maplehop.com/sitemap.xml
+Sitemap: https://happypaws.shop/sitemap.xml

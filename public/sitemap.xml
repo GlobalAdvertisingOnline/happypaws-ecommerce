@@ -2,388 +2,550 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Static pages -->
   <url>
-    <loc>https://maplehop.com/</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/shop</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/shop/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/cart</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/cart/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/checkout</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/checkout/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/thank-you</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/thank-you/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/tracking</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/tracking/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/contact</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/contact/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/cancel</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/cancel/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/faq</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/faq/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Legal pages -->
   <url>
-    <loc>https://maplehop.com/privacy-policy</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/privacy-policy/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/terms-of-service</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/terms-of-service/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/refund-policy</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/refund-policy/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/shipping-policy</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/shipping-policy/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/cookie-policy</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/cookie-policy/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/do-not-sell</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/do-not-sell/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
 
-  <!-- Product pages: Accessories (2) -->
+  <!-- Product pages: Accessories (15) -->
   <url>
-    <loc>https://maplehop.com/products/velvet-pouch</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/adjustable-nylon-harness/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/magnetic-pouch</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Product pages: Necklaces (12) -->
-  <url>
-    <loc>https://maplehop.com/products/orion-layered-chain-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/retractable-leash/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/solis-bar-pendant-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/leather-braided-leash/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/lyra-cable-chain-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/stainless-steel-food-bowl/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/solis-oval-link-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/elevated-double-feeder/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/lyra-snake-chain-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/travel-water-bottle/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/aria-pearl-strand-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/canvas-carrier-tote/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/aurora-triple-layer-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/car-seat-cover/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/orion-pendant-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/gps-collar-attachment/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/luna-multi-layer-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/silicone-treat-pouch/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/aria-statement-chain-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/airline-approved-carrier/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/celeste-signature-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/training-clicker-set/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/eclipse-luxury-signature-necklace</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Product pages: Earrings (8) -->
-  <url>
-    <loc>https://maplehop.com/products/vega-geometric-mini-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/pet-first-aid-kit/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/astra-drop-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/velvet-pouch/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/halo-classic-hoop-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/luna-pearl-drop-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/zenith-sculptural-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/nova-pearl-drop-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/halo-crystal-drop-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/orion-designer-drop-earrings</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/gift-box/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Product pages: Rings (8) -->
+  <!-- Product pages: Apparel (11) -->
   <url>
-    <loc>https://maplehop.com/products/meridian-textured-ring</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/waterproof-rain-jacket/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/nova-hammered-ring</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/fleece-pullover-sweater/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/pixiu-ring</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/insulated-winter-coat/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/astra-crystal-ring</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/rubber-paw-boots-set/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/halo-signet-ring</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/cotton-bandana-pack/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/eclipse-statement-ring</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/mesh-cooling-vest/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/vega-sculptural-ring</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/cotton-cable-knit-sweater/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/meridian-sculptural-ring</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Product pages: Bracelets (13) -->
-  <url>
-    <loc>https://maplehop.com/products/elara-dual-chain-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/reflective-safety-vest/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/zenith-charm-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/formal-bow-tie-tuxedo/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/eclipse-open-cuff-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/denim-dog-jacket/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/magnetic-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/fengshui-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/orion-slim-bangle</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/elara-dual-texture-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/celeste-designer-link-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/meridian-sculpted-cuff</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/solis-pearl-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/zenith-architectural-cuff</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/nova-premium-link-bracelet</loc>
-    <lastmod>2026-02-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://maplehop.com/products/solis-sculpted-statement-cuff</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/soft-hoodie-sweatshirt/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Product pages: Sets (4) -->
+  <!-- Product pages: Beds (12) -->
   <url>
-    <loc>https://maplehop.com/products/aria-layered-necklace-set</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/orthopedic-rectangle-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/eclipse-layered-necklace-set</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/round-bolster-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/aurora-luxe-jewelry-set</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/elevated-cooling-cot/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://maplehop.com/products/vega-pearl-jewelry-set</loc>
-    <lastmod>2026-02-18</lastmod>
+    <loc>https://happypaws.shop/products/cave-hooded-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/travel-folding-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/luxury-velvet-sofa-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/outdoor-waterproof-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/small-cat-perch-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/extra-large-pillow-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/heated-winter-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/crate-mat-cushion/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/memory-foam-mattress-bed/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Product pages: Collars (12) -->
+  <url>
+    <loc>https://happypaws.shop/products/classic-leather-dog-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/nylon-adjustable-puppy-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/reflective-safety-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/padded-comfort-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/woven-cotton-rope-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/canvas-martingale-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/studded-leather-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/breakaway-cat-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/embroidered-name-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/tactical-dog-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/bow-tie-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/wide-leather-collar/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Product pages: Grooming (12) -->
+  <url>
+    <loc>https://happypaws.shop/products/dual-sided-slicker-brush/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/stainless-steel-nail-clippers/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/deshedding-tool/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/bamboo-pin-brush/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/grooming-scissors-set/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/rubber-grooming-mitt/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/electric-nail-grinder/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/stainless-steel-comb/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/professional-grooming-table/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/flea-comb-set/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/absorbent-drying-coat/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/mat-splitter-tool/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Product pages: Toys (12) -->
+  <url>
+    <loc>https://happypaws.shop/products/plush-squeaky-ball/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/natural-rubber-chew-ring/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/rope-tug-toy/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/interactive-treat-puzzle/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/plush-duck-toy/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/rubber-fetch-ball/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/canvas-frisbee/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/crinkle-tunnel-toy/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/rubber-bone-chew/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/plush-fox-squeaker/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/rubber-ball-launcher-set/</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://happypaws.shop/products/catnip-mouse-trio/</loc>
+    <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
